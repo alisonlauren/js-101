@@ -1,5 +1,6 @@
 function lvl6exercise1(num) {
     // Return 'hello' if num is 1, 'world' if num is 2, otherwise return 'bye'
+    if 
 }
 
 function lvl6exercise2() {
